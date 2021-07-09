@@ -1,4 +1,4 @@
---OSTGRESQL DVD RENTAL SAMPLE DATA
+--POSTGRESQL DVD RENTAL SAMPLE DATA
 --https://www.postgresqltutorial.com/postgresql-sample-database/
 --------------------------------------------------------------------------------------
 --1.film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
